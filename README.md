@@ -6,7 +6,7 @@ The API only provides some useful information such as job title, location, emplo
 The application generates a random salary for each job as well as a fake apply form. Please don't take it for serious.    
 
 SET UP
-1. Clone the repository
+1. Clone the repository & install the required dependencies 
 
 2. Create the environment file for NextJS ".env.local" containing at least the required variables:
     - NEXT_PUBLIC_BACKEND_URL: the domain of Flask backend api, e. g. "http://localhost:5000".
@@ -50,6 +50,5 @@ Backend:
     - You can insert more data by executing a GET request with search parameters, e. g. localhost:5000/db/djob?position=Web Developer&location=Frankfurt (see backend/app/dev.py, backend/utils/processing.py - fetch.py - crud.py).
     - Each search request from frontend side will query data directly from the database to avoid abusing the open API.
     - You can add new user to the database with any tool that interacts with SQLite or adjust the view function for GET /dev/new_user (backend/app/dev.py).
-    - For further information please check the docstring.
 
 The application is not completed. There are surely some bugs not being fixed by now. Please contact me in case needed: ktsinh.nguyen.94@gmail.com
