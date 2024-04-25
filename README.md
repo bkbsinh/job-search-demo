@@ -26,7 +26,7 @@ SET UP
 
 The whole application should be then up and running.
 
-USAGE
+USAGE  
 Frontend:
 1. Login Page: "http://localhost:3000/login"
     - A middleware is used to ensure unauthenticated users will be redirected to the login page (see middleware.js).
@@ -45,10 +45,10 @@ Frontend:
     - Apply for the job with id "xxx"
     - As mentioned above, this is a fake apply form. It simply sends an email from SENDER to the RECIPIENTS with the message in "Anschreiben" field and the resume as attachment. 
 
-Backend:
-    - The database is already populated with some data. 
-    - You can insert more data by executing a GET request with search parameters, e. g. localhost:5000/db/djob?position=Web Developer&location=Frankfurt (see backend/app/dev.py, backend/utils/processing.py - fetch.py - crud.py).
-    - Each search request from frontend side will query data directly from the database to avoid abusing the open API.
-    - You can add new user to the database with any tool that interacts with SQLite or adjust the view function for GET /dev/new_user (backend/app/dev.py).
+Backend:  
+    - The database is already populated with some data.   
+    - You can insert more data by executing a GET request with search parameters, e. g. localhost:5000/db/djob?position=Web Developer&location=Frankfurt (see backend/app/dev.py, backend/utils/processing.py - fetch.py - crud.py).  
+    - Each search request from frontend side will query data directly from the database to avoid abusing the open API.  
+    - You can add new user to the database with any tool that interacts with SQLite or adjust the view function for GET /dev/new_user (backend/app/dev.py).  
 
 The application is not completed. There are surely some bugs not being fixed by now. Please contact me in case needed: ktsinh.nguyen.94@gmail.com
