@@ -1,0 +1,2986 @@
+{
+  "facetten": {
+    "angebotsart": {
+      "counts": {
+        "1": 211,
+        "2": 5
+      },
+      "maxCount": 216
+    },
+    "arbeitgeber": {
+      "counts": {
+        "ALTEN GmbH Coburg": 8,
+        "ANG. -Punkt und Gut! GmbH": 1,
+        "Akkodis Germany Tech Experts GmbH": 1,
+        "Alterna S+A GmbH": 1,
+        "Avabis GmbH": 1,
+        "BS Wutow GmbH \u00a0 \u00a0": 1,
+        "BWI GmbH": 3,
+        "Bechtle": 1,
+        "Bertrandt AG": 1,
+        "Biotest AG": 1,
+        "Blocksize Capital GmbH": 1,
+        "Bundesamt f\u00fcr Kartographie und Ge": 1,
+        "CHECK24": 2,
+        "Capgemini Deutschland GmbH": 8,
+        "Cofinpro": 1,
+        "Comyno GmbH": 3,
+        "DENIC eG": 2,
+        "Deloitte GmbH": 1,
+        "Deutsche Bahn AG": 2,
+        "Deutsche Bundesbank": 1,
+        "Deutsche Lufthansa AG": 4,
+        "Djangsters GmbH": 1,
+        "Drooms GmbH": 1,
+        "E.ON": 1,
+        "E.ON SE": 1,
+        "EBCONT group GmbH": 1,
+        "ECKD GmbH": 2,
+        "EMOS Software GmbH": 2,
+        "ERWEKA GmbH": 1,
+        "EY GmbH & Co. KG WPG": 1,
+        "FERCHAU GmbH Niederlassung Darmstadt": 2,
+        "FERCHAU GmbH Niederlassung Frankfurt": 11,
+        "FERCHAU GmbH Niederlassung Wiesbaden": 1,
+        "FIS Informationssysteme und Consulting GmbH": 2,
+        "Fairsource GmbH": 1,
+        "Fidelity International": 2,
+        "Finanz Informatik": 5,
+        "Finanz Informatik Solutions Plus": 2,
+        "Hays Professional Solutions GmbH Standort Frankfurt": 1,
+        "IB-IT Development GmbH": 1,
+        "ING Deutschland": 20,
+        "INTEGRATED DYNAMICS ENGINEERING GMBH": 1,
+        "IQ-optimize Software": 1,
+        "ISR Information Products AG": 3,
+        "IT42morrow IFT GmbH": 1,
+        "ITK Engineering": 2,
+        "ITech Progress GmbH": 2,
+        "KI Group": 1,
+        "Karl Mayer Holding": 2,
+        "LORENZ  Life Sciences Group": 1,
+        "Lucht Probst Associates GmbH": 1,
+        "MGA Ingenieurdienstleistungen GmbH": 1,
+        "MightyCare": 1,
+        "Neum\u00fcller Personalberatung Regina Neum\u00fcller e.K.": 1,
+        "Noir Consulting": 1,
+        "PAR GmbH": 5,
+        "PKS Software": 1,
+        "Pamec Papp GmbH": 2,
+        "Pan Dacom Direkt": 1,
+        "Pan Dacom Direkt GmbH": 1,
+        "Positive Thinking Company": 1,
+        "Randstad Digital": 4,
+        "Randstad Digital Germany AG": 2,
+        "Rocket Road GmbH": 1,
+        "SAMSON AG": 1,
+        "SEAP Automation GmbH": 1,
+        "SOMI Group": 1,
+        "SYNGENIO AG": 1,
+        "SYZYGY Deutschland": 1,
+        "Sauter-Cumulus GmbH": 1,
+        "SkillTank": 1,
+        "Somentec Software GmbH": 1,
+        "Sweco GmbH": 1,
+        "S\u00fcwag Energie AG": 3,
+        "Techem Energy Services GmbH": 1,
+        "TempoRatio Consulting GmbH": 1,
+        "Thinksurance": 3,
+        "WAITS": 1,
+        "WAITS GmbH": 5,
+        "WEISS Personalmanagement GmbH - Offenbach": 1,
+        "adesso insurance solutions GmbH": 1,
+        "atriga GmbH": 1,
+        "autoiXpert": 1,
+        "dfv Mediengruppe": 1,
+        "diva-e Digital Value Enterprise GmbH": 1,
+        "diva-e Next GmbH": 4,
+        "dmTECH GmbH": 1,
+        "efcom gmbh": 1,
+        "findic": 3,
+        "gkk DialogGroup GmbH": 2,
+        "impetus": 1,
+        "impetus Unternehmensberatung GmbH": 1,
+        "invenio GmbH Engineering Services": 1,
+        "iteratec GmbH": 1,
+        "matchING Engineering GmbH": 3,
+        "medatixx": 1,
+        "medatixx GmbH & Co. KG": 2,
+        "people at work Personalleasing+Vermittlungsge s.mbH": 1,
+        "ponturo consulting AG": 1,
+        "samecon": 3,
+        "secunet": 1,
+        "secunet Security Networks AG": 3,
+        "top itservices AG": 1,
+        "trendtours Touristik GmbH": 2,
+        "zeb": 2,
+        "zollsoft GmbH \u00a0 \u00a0": 6
+      },
+      "maxCount": 211
+    },
+    "arbeitsort": {
+      "counts": {
+        "Bad Homburg vor der H\u00f6he": 1,
+        "Dietzenbach": 1,
+        "Dreieich": 4,
+        "Egelsbach, Hessen": 1,
+        "Eschborn, Taunus": 19,
+        "Frankfurt am Main": 165,
+        "Heusenstamm": 1,
+        "Kelsterbach": 1,
+        "Kronberg im Taunus": 2,
+        "Langen (Hessen)": 4,
+        "Maintal": 1,
+        "Neu-Isenburg": 1,
+        "Obertshausen": 2,
+        "Offenbach am Main": 4,
+        "Raunheim": 3,
+        "Schwalbach am Taunus": 1
+      },
+      "maxCount": 211
+    },
+    "arbeitsort_plz": {
+      "counts": {
+        "01067": 2,
+        "01069": 3,
+        "04109": 4,
+        "07589": 3,
+        "07745": 6,
+        "10115": 3,
+        "10117": 2,
+        "10178": 9,
+        "10557": 1,
+        "10559": 3,
+        "10785": 5,
+        "10969": 1,
+        "13627": 1,
+        "20097": 4,
+        "20099": 1,
+        "20148": 1,
+        "20457": 2,
+        "20537": 2,
+        "22083": 1,
+        "22085": 4,
+        "22087": 5,
+        "22335": 1,
+        "22587": 1,
+        "22761": 1,
+        "22844": 1,
+        "26133": 1,
+        "27499": 3,
+        "29633": 3,
+        "30163": 7,
+        "30169": 8,
+        "30175": 1,
+        "30539": 1,
+        "38100": 5,
+        "38440": 1,
+        "40210": 2,
+        "40213": 1,
+        "40468": 10,
+        "40882": 2,
+        "44135": 1,
+        "45127": 2,
+        "45128": 2,
+        "45131": 1,
+        "45138": 3,
+        "47798": 1,
+        "48143": 7,
+        "50667": 3,
+        "50672": 1,
+        "50676": 1,
+        "50678": 1,
+        "50823": 1,
+        "50968": 8,
+        "51069": 1,
+        "52070": 1,
+        "53111": 1,
+        "53119": 2,
+        "53175": 1,
+        "53359": 1,
+        "57076": 2,
+        "60306": 4,
+        "60308": 4,
+        "60310": 8,
+        "60311": 19,
+        "60313": 27,
+        "60314": 4,
+        "60318": 1,
+        "60322": 1,
+        "60325": 6,
+        "60327": 10,
+        "60329": 7,
+        "60385": 4,
+        "60388": 2,
+        "60431": 1,
+        "60439": 3,
+        "60486": 27,
+        "60487": 1,
+        "60488": 1,
+        "60489": 3,
+        "60528": 2,
+        "60594": 1,
+        "60598": 1,
+        "61350": 1,
+        "61476": 2,
+        "63065": 2,
+        "63069": 1,
+        "63128": 1,
+        "63150": 1,
+        "63179": 2,
+        "63225": 3,
+        "63263": 1,
+        "63303": 4,
+        "63329": 1,
+        "63477": 1,
+        "65343": 3,
+        "65451": 1,
+        "65479": 3,
+        "65760": 19,
+        "65824": 1,
+        "65929": 1,
+        "65933": 1,
+        "67059": 2,
+        "68159": 1,
+        "70173": 12,
+        "70565": 6,
+        "70629": 1,
+        "70771": 5,
+        "71229": 1,
+        "76227": 1,
+        "79098": 1,
+        "80331": 9,
+        "80336": 4,
+        "80636": 1,
+        "80639": 5,
+        "80992": 2,
+        "81673": 1,
+        "81829": 8,
+        "85049": 1,
+        "88212": 1,
+        "89073": 1,
+        "89075": 2,
+        "90402": 10,
+        "90439": 6,
+        "90443": 1,
+        "90449": 3,
+        "94469": 2,
+        "96052": 1,
+        "97080": 1,
+        "97506": 2,
+        "98693": 1,
+        "99084": 2
+      },
+      "maxCount": 211
+    },
+    "arbeitszeit": {
+      "counts": {
+        "ho": 9,
+        "snw": 1,
+        "tz": 18,
+        "vz": 162
+      },
+      "maxCount": 211
+    },
+    "befristung": {
+      "counts": {
+        "1": 1,
+        "2": 210
+      },
+      "maxCount": 211
+    },
+    "behinderung": {
+      "counts": {
+        "false": 186,
+        "true": 1
+      },
+      "maxCount": 211
+    },
+    "beruf": {
+      "counts": {
+        "Anwendungsprogrammierer/in": 16,
+        "Backend-Entwickler/in": 1,
+        "ERP-Anwendungsentwickler/in": 1,
+        "Entwickler/in - Drohnen": 1,
+        "Entwickler/in Digitale Medien": 1,
+        "Fachinformatiker/in - Anwendungsentwicklung": 1,
+        "Frontend-Entwickler/in": 1,
+        "Fullstack-Entwickler/in": 1,
+        "IT-Entwickler/in (Weiterbildung/Ausbildung)": 2,
+        "IT-Systemadministrator/in": 1,
+        "Informatiker/in (Hochschule)": 2,
+        "Informationsmanager/in": 1,
+        "Ingenieur/in - Automatisierungstechnik": 1,
+        "Ingenieur/in - Elektrotechnik": 8,
+        "Ingenieur/in - Mechatronik": 1,
+        "Mathematisch-technische/r Softwareentwickler/in": 2,
+        "Netzwerk-Servicetechniker/in": 1,
+        "SPS-Ingenieur/in": 1,
+        "Softwareentwickler/in": 168
+      },
+      "maxCount": 211
+    },
+    "berufsfeld": {
+      "counts": {
+        "Elektrotechnik": 8,
+        "Fahrzeug-, Luft-, Raumfahrt- und Schiffbautechnik": 1,
+        "IT-Netzwerktechnik, -Administration, -Organisation": 4,
+        "Informatik": 5,
+        "Mechatronik und Automatisierungstechnik": 2,
+        "Softwareentwicklung und Programmierung": 191
+      },
+      "maxCount": 211
+    },
+    "branche": {
+      "counts": {
+        "1": 25,
+        "11": 51,
+        "13": 16,
+        "14": 1,
+        "15": 2,
+        "21": 4,
+        "22": 3,
+        "28": 17,
+        "29": 2,
+        "3": 2,
+        "9": 1
+      },
+      "maxCount": 211
+    },
+    "bundesland": {
+      "counts": {
+        "Baden-W\u00fcrttemberg": 45,
+        "Bayern": 51,
+        "Berlin": 40,
+        "Bremen": 1,
+        "Hamburg": 43,
+        "Hessen": 211,
+        "Niedersachsen": 36,
+        "Nordrhein-Westfalen": 56,
+        "Rheinland-Pfalz": 3,
+        "Sachsen": 20,
+        "Schleswig-Holstein": 1,
+        "Th\u00fcringen": 15
+      },
+      "maxCount": 211
+    },
+    "eintrittsdatum": {
+      "counts": {
+        "10_01_01-now": 197,
+        "24_04_01-24_05_01": 109,
+        "24_05_01-24_06_01": 4
+      },
+      "maxCount": 211
+    },
+    "externestellenboersen": {
+      "counts": {
+        "false": 91,
+        "true": 120
+      },
+      "maxCount": 211
+    },
+    "pav": {
+      "counts": {
+        "false": 211,
+        "true": 81
+      },
+      "maxCount": 292
+    },
+    "plz_ebene_2": {
+      "counts": {
+        "01": 5,
+        "04": 4,
+        "07": 9,
+        "10": 24,
+        "13": 1,
+        "20": 10,
+        "22": 13,
+        "26": 1,
+        "27": 3,
+        "29": 3,
+        "30": 17,
+        "38": 6,
+        "40": 15,
+        "44": 1,
+        "45": 8,
+        "47": 1,
+        "48": 7,
+        "50": 15,
+        "51": 1,
+        "52": 1,
+        "53": 5,
+        "57": 2,
+        "60": 137,
+        "61": 3,
+        "63": 17,
+        "65": 29,
+        "67": 2,
+        "68": 1,
+        "70": 24,
+        "71": 1,
+        "76": 1,
+        "79": 1,
+        "80": 17,
+        "81": 9,
+        "85": 1,
+        "88": 1,
+        "89": 3,
+        "90": 20,
+        "94": 2,
+        "96": 1,
+        "97": 3,
+        "98": 1,
+        "99": 2
+      },
+      "maxCount": 211
+    },
+    "plz_ebene_3": {
+      "counts": {
+        "010": 5,
+        "041": 4,
+        "075": 3,
+        "077": 6,
+        "101": 14,
+        "105": 4,
+        "107": 5,
+        "109": 1,
+        "136": 1,
+        "200": 5,
+        "201": 1,
+        "204": 2,
+        "205": 2,
+        "220": 10,
+        "223": 1,
+        "225": 1,
+        "227": 1,
+        "228": 1,
+        "261": 1,
+        "274": 3,
+        "296": 3,
+        "301": 16,
+        "305": 1,
+        "381": 5,
+        "384": 1,
+        "402": 3,
+        "404": 10,
+        "408": 2,
+        "441": 1,
+        "451": 8,
+        "477": 1,
+        "481": 7,
+        "506": 6,
+        "508": 1,
+        "509": 8,
+        "510": 1,
+        "520": 1,
+        "531": 4,
+        "533": 1,
+        "570": 2,
+        "603": 97,
+        "604": 36,
+        "605": 4,
+        "613": 1,
+        "614": 2,
+        "630": 3,
+        "631": 4,
+        "632": 4,
+        "633": 5,
+        "634": 1,
+        "653": 3,
+        "654": 4,
+        "657": 19,
+        "658": 1,
+        "659": 2,
+        "670": 2,
+        "681": 1,
+        "701": 12,
+        "705": 6,
+        "706": 1,
+        "707": 5,
+        "712": 1,
+        "762": 1,
+        "790": 1,
+        "803": 13,
+        "806": 6,
+        "809": 2,
+        "816": 1,
+        "818": 8,
+        "850": 1,
+        "882": 1,
+        "890": 3,
+        "904": 20,
+        "944": 2,
+        "960": 1,
+        "970": 1,
+        "975": 2,
+        "986": 1,
+        "990": 2
+      },
+      "maxCount": 211
+    },
+    "plz_ebene_4": {
+      "counts": {
+        "0106": 5,
+        "0410": 4,
+        "0758": 3,
+        "0774": 6,
+        "1011": 5,
+        "1017": 9,
+        "1055": 4,
+        "1078": 5,
+        "1096": 1,
+        "1362": 1,
+        "2009": 5,
+        "2014": 1,
+        "2045": 2,
+        "2053": 2,
+        "2208": 10,
+        "2233": 1,
+        "2258": 1,
+        "2276": 1,
+        "2284": 1,
+        "2613": 1,
+        "2749": 3,
+        "2963": 3,
+        "3016": 15,
+        "3017": 1,
+        "3053": 1,
+        "3810": 5,
+        "3844": 1,
+        "4021": 3,
+        "4046": 10,
+        "4088": 2,
+        "4413": 1,
+        "4512": 4,
+        "4513": 4,
+        "4779": 1,
+        "4814": 7,
+        "5066": 3,
+        "5067": 3,
+        "5082": 1,
+        "5096": 8,
+        "5106": 1,
+        "5207": 1,
+        "5311": 3,
+        "5317": 1,
+        "5335": 1,
+        "5707": 2,
+        "6030": 8,
+        "6031": 59,
+        "6032": 24,
+        "6038": 6,
+        "6043": 4,
+        "6048": 32,
+        "6052": 2,
+        "6059": 2,
+        "6135": 1,
+        "6147": 2,
+        "6306": 3,
+        "6312": 1,
+        "6315": 1,
+        "6317": 2,
+        "6322": 3,
+        "6326": 1,
+        "6330": 4,
+        "6332": 1,
+        "6347": 1,
+        "6534": 3,
+        "6545": 1,
+        "6547": 3,
+        "6576": 19,
+        "6582": 1,
+        "6592": 1,
+        "6593": 1,
+        "6705": 2,
+        "6815": 1,
+        "7017": 12,
+        "7056": 6,
+        "7062": 1,
+        "7077": 5,
+        "7122": 1,
+        "7622": 1,
+        "7909": 1,
+        "8033": 13,
+        "8063": 6,
+        "8099": 2,
+        "8167": 1,
+        "8182": 8,
+        "8504": 1,
+        "8821": 1,
+        "8907": 3,
+        "9040": 10,
+        "9043": 6,
+        "9044": 4,
+        "9446": 2,
+        "9605": 1,
+        "9708": 1,
+        "9750": 2,
+        "9869": 1,
+        "9908": 2
+      },
+      "maxCount": 211
+    },
+    "plz_ebene_5": {
+      "counts": {
+        "01067": 2,
+        "01069": 3,
+        "04109": 4,
+        "07589": 3,
+        "07745": 6,
+        "10115": 3,
+        "10117": 2,
+        "10178": 9,
+        "10557": 1,
+        "10559": 3,
+        "10785": 5,
+        "10969": 1,
+        "13627": 1,
+        "20097": 4,
+        "20099": 1,
+        "20148": 1,
+        "20457": 2,
+        "20537": 2,
+        "22083": 1,
+        "22085": 4,
+        "22087": 5,
+        "22335": 1,
+        "22587": 1,
+        "22761": 1,
+        "22844": 1,
+        "26133": 1,
+        "27499": 3,
+        "29633": 3,
+        "30163": 7,
+        "30169": 8,
+        "30175": 1,
+        "30539": 1,
+        "38100": 5,
+        "38440": 1,
+        "40210": 2,
+        "40213": 1,
+        "40468": 10,
+        "40882": 2,
+        "44135": 1,
+        "45127": 2,
+        "45128": 2,
+        "45131": 1,
+        "45138": 3,
+        "47798": 1,
+        "48143": 7,
+        "50667": 3,
+        "50672": 1,
+        "50676": 1,
+        "50678": 1,
+        "50823": 1,
+        "50968": 8,
+        "51069": 1,
+        "52070": 1,
+        "53111": 1,
+        "53119": 2,
+        "53175": 1,
+        "53359": 1,
+        "57076": 2,
+        "60306": 4,
+        "60308": 4,
+        "60310": 8,
+        "60311": 19,
+        "60313": 27,
+        "60314": 4,
+        "60318": 1,
+        "60322": 1,
+        "60325": 6,
+        "60327": 10,
+        "60329": 7,
+        "60385": 4,
+        "60388": 2,
+        "60431": 1,
+        "60439": 3,
+        "60486": 27,
+        "60487": 1,
+        "60488": 1,
+        "60489": 3,
+        "60528": 2,
+        "60594": 1,
+        "60598": 1,
+        "61350": 1,
+        "61476": 2,
+        "63065": 2,
+        "63069": 1,
+        "63128": 1,
+        "63150": 1,
+        "63179": 2,
+        "63225": 3,
+        "63263": 1,
+        "63303": 4,
+        "63329": 1,
+        "63477": 1,
+        "65343": 3,
+        "65451": 1,
+        "65479": 3,
+        "65760": 19,
+        "65824": 1,
+        "65929": 1,
+        "65933": 1,
+        "67059": 2,
+        "68159": 1,
+        "70173": 12,
+        "70565": 6,
+        "70629": 1,
+        "70771": 5,
+        "71229": 1,
+        "76227": 1,
+        "79098": 1,
+        "80331": 9,
+        "80336": 4,
+        "80636": 1,
+        "80639": 5,
+        "80992": 2,
+        "81673": 1,
+        "81829": 8,
+        "85049": 1,
+        "88212": 1,
+        "89073": 1,
+        "89075": 2,
+        "90402": 10,
+        "90439": 6,
+        "90443": 1,
+        "90449": 3,
+        "94469": 2,
+        "96052": 1,
+        "97080": 1,
+        "97506": 2,
+        "98693": 1,
+        "99084": 2
+      },
+      "maxCount": 211
+    },
+    "schulbildung": {
+      "counts": {
+        "0": 3
+      },
+      "maxCount": 211
+    },
+    "veroeffentlichtseit": {
+      "counts": {
+        "0": 1,
+        "1": 11,
+        "10": 62,
+        "100": 175,
+        "11": 62,
+        "12": 63,
+        "13": 66,
+        "14": 66,
+        "15": 69,
+        "16": 76,
+        "17": 79,
+        "18": 80,
+        "19": 91,
+        "2": 30,
+        "20": 93,
+        "21": 93,
+        "22": 94,
+        "23": 106,
+        "24": 106,
+        "25": 106,
+        "26": 108,
+        "27": 108,
+        "28": 110,
+        "29": 111,
+        "3": 31,
+        "30": 112,
+        "31": 112,
+        "32": 112,
+        "33": 112,
+        "34": 112,
+        "35": 114,
+        "36": 115,
+        "37": 115,
+        "38": 115,
+        "39": 115,
+        "4": 32,
+        "40": 116,
+        "41": 121,
+        "42": 121,
+        "43": 121,
+        "44": 121,
+        "45": 121,
+        "46": 121,
+        "47": 121,
+        "48": 121,
+        "49": 121,
+        "5": 43,
+        "50": 130,
+        "51": 130,
+        "52": 130,
+        "53": 130,
+        "54": 130,
+        "55": 130,
+        "56": 130,
+        "57": 130,
+        "58": 130,
+        "59": 130,
+        "6": 47,
+        "60": 130,
+        "61": 130,
+        "62": 130,
+        "63": 130,
+        "64": 132,
+        "65": 155,
+        "66": 156,
+        "67": 156,
+        "68": 157,
+        "69": 159,
+        "7": 56,
+        "70": 159,
+        "71": 161,
+        "72": 162,
+        "73": 162,
+        "74": 162,
+        "75": 162,
+        "76": 162,
+        "77": 164,
+        "78": 164,
+        "79": 164,
+        "8": 62,
+        "80": 164,
+        "81": 164,
+        "82": 164,
+        "83": 164,
+        "84": 164,
+        "85": 164,
+        "86": 164,
+        "87": 164,
+        "88": 164,
+        "89": 164,
+        "9": 62,
+        "90": 164,
+        "91": 170,
+        "92": 170,
+        "93": 170,
+        "94": 170,
+        "95": 170,
+        "96": 170,
+        "97": 174,
+        "98": 174,
+        "99": 175,
+        "alle": 211
+      },
+      "maxCount": 211
+    },
+    "zeitarbeit": {
+      "counts": {
+        "false": 179,
+        "true": 32
+      },
+      "maxCount": 211
+    }
+  },
+  "maxErgebnisse": 211,
+  "page": 1,
+  "size": 100,
+  "stellenangebote": [
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Darmstadt",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.107016797274675,
+          "lon": 8.665525783226382
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60329",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "i_mxlN4n_NCqiLcov9Xu4kSMtEDm7cq5uFVsJxwS6fo=",
+      "modifikationsTimestamp": "2024-03-22T08:04:18.124",
+      "refnr": "12265-252049_JB4224417-S",
+      "titel": "Software Entwickler C++ (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-07",
+      "arbeitgeber": "iteratec GmbH",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1000735,
+          "lon": 8.6448905
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60327",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-07",
+      "externeUrl": "https://www.jobboerse-direkt.de/stellenangebote/Softwareentwickler-7528756",
+      "modifikationsTimestamp": "2024-04-07T09:02:20.317",
+      "refnr": "12513-0007528756-S",
+      "titel": "Softwareentwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "matchING Engineering GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.12253485110072,
+          "lon": 8.642549928441635
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Ingenieur/in - Elektrotechnik",
+      "eintrittsdatum": "2024-05-01",
+      "kundennummerHash": "dX5xP20zx8JX7tN_h-aO1QHwjlvaWUhlIlqIkEHVBUA=",
+      "modifikationsTimestamp": "2024-04-05T17:16:37.869",
+      "refnr": "15150-00172825-S",
+      "titel": "Embedded Software Entwickler Luftfahrttechnik (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-26",
+      "arbeitgeber": "people at work Personalleasing+Vermittlungsge s.mbH",
+      "arbeitsort": {
+        "entfernung": "1",
+        "koordinaten": {
+          "lat": 50.1407958,
+          "lon": 8.6145062
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60488",
+        "region": "Hessen"
+      },
+      "beruf": "Fullstack-Entwickler/in",
+      "eintrittsdatum": "2024-04-02",
+      "kundennummerHash": "_-d4kJrbj0y-tKo-4wNd2wcbAI2_cvmox0YO37of-64=",
+      "modifikationsTimestamp": "2024-04-02T09:31:30.911",
+      "refnr": "12972-887-1584356-0-S",
+      "titel": "Full Stack Software-Entwickler w/m/d"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-03",
+      "arbeitgeber": "SkillTank",
+      "arbeitsort": {
+        "entfernung": "1",
+        "koordinaten": {
+          "lat": 50.1274053,
+          "lon": 8.6361268
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60487",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-05",
+      "externeUrl": "https://www.persy.jobs/persy/l/job-cwqux-b",
+      "modifikationsTimestamp": "2024-04-04T09:07:13.193",
+      "refnr": "12288-3552228545-S",
+      "titel": "Senior Softwareentwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-05",
+      "arbeitgeber": "SAMSON AG",
+      "arbeitsort": {
+        "entfernung": "8",
+        "koordinaten": {
+          "lat": 50.1178868,
+          "lon": 8.7330738
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60314",
+        "region": "Hessen",
+        "strasse": "Weism\u00fcllerstr. 3"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-02-05",
+      "kundennummerHash": "_7HjALBT9ku4M9_Y-xCJrmhBS2mwTWaBqchVxUrGxQ0=",
+      "modifikationsTimestamp": "2024-02-05T17:13:58.254",
+      "refnr": "10000-1197370159-S",
+      "titel": "SAP Software Entwickler (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-03",
+      "arbeitgeber": "Avabis GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1303125,
+          "lon": 8.6495329
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-03",
+      "kundennummerHash": "OukgLaRaM1BXHceoQprohpskF2jOBaWWjIXUmfdO54Q=",
+      "modifikationsTimestamp": "2024-04-03T10:47:45.029",
+      "refnr": "10000-1180163134-S",
+      "titel": "Softwareentwickler Java (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "INTEGRATED DYNAMICS ENGINEERING GMBH",
+      "arbeitsort": {
+        "entfernung": "18",
+        "koordinaten": {
+          "lat": 50.0120855,
+          "lon": 8.473506
+        },
+        "land": "Deutschland",
+        "ort": "Raunheim",
+        "plz": "65479",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "externeUrl": "https://www.frankfurter-jobanzeiger.de/job/integrated-dynamics-engineer/23147310/?utm_campaign=free&utm_source=bundesagentur&utm_medium=unpaid-partner",
+      "modifikationsTimestamp": "2024-04-08T08:21:27.732",
+      "refnr": "12688-23147310-RJA-S",
+      "titel": "Softwareentwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-29",
+      "arbeitgeber": "EBCONT group GmbH",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1070168,
+          "lon": 8.6655258
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60329",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-23",
+      "externeUrl": "https://jobs.ams.at/public/emps/jobs/BTR925691_15949026",
+      "modifikationsTimestamp": "2024-03-22T17:36:20.369",
+      "refnr": "11949-15949026-S",
+      "titel": "Softwareentwickler/in"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-02",
+      "arbeitgeber": "efcom gmbh",
+      "arbeitsort": {
+        "entfernung": "11",
+        "koordinaten": {
+          "lat": 50.0465503,
+          "lon": 8.6808313
+        },
+        "land": "Deutschland",
+        "ort": "Neu-Isenburg",
+        "plz": "63263",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-02",
+      "externeUrl": "https://www.yourfirm.de/job/efcom/23085843/?utm_campaign=free&utm_source=bundesagentur&utm_medium=unpaid-partner",
+      "modifikationsTimestamp": "2024-04-02T08:19:38.63",
+      "refnr": "12117-23085843-YF-S",
+      "titel": "Software-Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "PAR GmbH",
+      "arbeitsort": {
+        "entfernung": "6",
+        "koordinaten": {
+          "lat": 50.1036449429527,
+          "lon": 8.696901430590259
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60594",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-06",
+      "kundennummerHash": "yZJqE82IGMdaJMW0Y04y-dTCi0hDmN2IzmwevQTzDW4=",
+      "modifikationsTimestamp": "2024-04-05T18:06:09.462",
+      "refnr": "13932-k18687.2438-S",
+      "titel": "Softwaredeveloper (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "ISR Information Products AG",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1158787,
+          "lon": 8.670288
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60306",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-13",
+      "externeUrl": "https://www.jobexport.de/job/4213613.html?exp=81&cid=c76db0e0-d039-4de3-af4c-fdf91cd2244d",
+      "modifikationsTimestamp": "2024-04-09T07:39:09.706",
+      "refnr": "13635-c76db0e0_JB4213613-S",
+      "titel": "Softwareentwickler Java / Javascript (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-25",
+      "arbeitgeber": "Akkodis Germany Tech Experts GmbH",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.11535602558235,
+          "lon": 8.683282223287545
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-29",
+      "kundennummerHash": "BCgcsxBRB79RUJWchsVAoAnowhZcEs8WSdvBcADDtv8=",
+      "modifikationsTimestamp": "2024-03-25T09:26:05.458",
+      "refnr": "12634-670409_JB4226883-S",
+      "titel": "Softwareentwickler MES (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "PAR GmbH",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.11432514234802,
+          "lon": 8.629914060592952
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-06",
+      "kundennummerHash": "yZJqE82IGMdaJMW0Y04y-dTCi0hDmN2IzmwevQTzDW4=",
+      "modifikationsTimestamp": "2024-04-05T18:06:09.911",
+      "refnr": "13932-k18687.2439-S",
+      "titel": "Last- und Performancetestentwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "PAR GmbH",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.11432514234802,
+          "lon": 8.629914060592952
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-06",
+      "kundennummerHash": "yZJqE82IGMdaJMW0Y04y-dTCi0hDmN2IzmwevQTzDW4=",
+      "modifikationsTimestamp": "2024-04-05T18:06:09.023",
+      "refnr": "13932-k18687.2437-S",
+      "titel": "Security Architect (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-10",
+      "arbeitgeber": "Hays Professional Solutions GmbH Standort Frankfurt",
+      "arbeitsort": {
+        "entfernung": "17",
+        "koordinaten": {
+          "lat": 49.989564671764064,
+          "lon": 8.666470499980182
+        },
+        "land": "Deutschland",
+        "ort": "Langen (Hessen)",
+        "region": "Hessen"
+      },
+      "beruf": "Ingenieur/in - Elektrotechnik",
+      "eintrittsdatum": "2024-04-10",
+      "kundennummerHash": "UfuW8i-MR1oiX6waT0UBSzoLEtCfo8KFsaQwuz11ZzQ=",
+      "modifikationsTimestamp": "2024-04-10T10:39:33.819",
+      "refnr": "13319-732468/1_486881LS-S",
+      "titel": "Software-Entwickler - C# technische Software (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "WAITS GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1303125,
+          "lon": 8.6495329
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "modifikationsTimestamp": "2024-04-08T17:30:45.598",
+      "refnr": "10000-1191552786-S",
+      "titel": "Web-Entwickler (m/w/d) - remote"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-03-22T16:33:36.219",
+      "refnr": "12265-277054_JB4224945-S",
+      "titel": "AUTOSAR Softwareentwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-03-22T08:04:26.223",
+      "refnr": "12265-262774_JB4224432-S",
+      "titel": "Embedded-Software-Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-12",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-04-08T09:01:40.768",
+      "refnr": "12265-348127_JB4245071-S",
+      "titel": "Embedded Softwareentwickler Automotive (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-20",
+      "arbeitgeber": "Capgemini Deutschland GmbH",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1053622,
+          "lon": 8.6496901
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60327",
+        "region": "Hessen",
+        "strasse": "Mainzer Landstrasse 178-190"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "modifikationsTimestamp": "2024-04-04T09:07:46.4",
+      "refnr": "10000-1194658070-S",
+      "titel": "Senior Softwareentwickler (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "TempoRatio Consulting GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1290867,
+          "lon": 8.6470147
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Ingenieur/in - Elektrotechnik",
+      "eintrittsdatum": "2024-04-05",
+      "kundennummerHash": "rCSrj2blklAa5rXWH_KUPeKIiNQ8_zf69P2UVNEybSI=",
+      "modifikationsTimestamp": "2024-04-05T10:39:07.319",
+      "refnr": "10000-1193064391-S",
+      "titel": "Softwareentwickler (m/w/d)_4921"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-29",
+      "arbeitgeber": "EMOS Software GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1290867,
+          "lon": 8.6470147
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-12",
+      "kundennummerHash": "qk-IDZiaytQ2H0SdJAOnP1Gt8lK31BzmTIRlJJW-UYY=",
+      "modifikationsTimestamp": "2024-03-21T16:47:17.077",
+      "refnr": "10000-1194777517-S",
+      "titel": "Android/Java Softwareentwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-30",
+      "arbeitgeber": "secunet",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1499795,
+          "lon": 8.5674345
+        },
+        "land": "Deutschland",
+        "ort": "Eschborn, Taunus",
+        "plz": "65760",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p245800?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-premium",
+      "modifikationsTimestamp": "2024-04-01T07:34:11.488",
+      "refnr": "13644-245800-S",
+      "titel": "Software-Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-04",
+      "arbeitgeber": "samecon",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1499795,
+          "lon": 8.5674345
+        },
+        "land": "Deutschland",
+        "ort": "Eschborn, Taunus",
+        "plz": "65760",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p193042?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:31:30.165",
+      "refnr": "13644-193042-S",
+      "titel": "Software Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "Finanz Informatik",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-05",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p241117?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-premium",
+      "modifikationsTimestamp": "2024-04-05T15:24:57.479",
+      "refnr": "13644-241117-S",
+      "titel": "Software Architekt Frontendtechnologien (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "zollsoft GmbH \u00a0 \u00a0",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.119305,
+          "lon": 8.6537856
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "modifikationsTimestamp": "2024-04-08T13:31:07.657",
+      "refnr": "10000-1192861541-S",
+      "titel": "Softwareentwickler:in Java (Homeoffice m\u00f6glich)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2023-12-05",
+      "arbeitgeber": "impetus",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1499795,
+          "lon": 8.5674345
+        },
+        "land": "Deutschland",
+        "ort": "Eschborn, Taunus",
+        "plz": "65760",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p95262?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:29:40.315",
+      "refnr": "13644-95262-S",
+      "titel": "Software Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2022-03-24",
+      "arbeitgeber": "FIS Informationssysteme und Consulting GmbH",
+      "arbeitsort": {
+        "entfernung": "12",
+        "koordinaten": {
+          "lat": 50.0993946,
+          "lon": 8.783735
+        },
+        "land": "Deutschland",
+        "ort": "Offenbach am Main",
+        "region": "Hessen"
+      },
+      "beruf": "ERP-Anwendungsentwickler/in",
+      "eintrittsdatum": "2024-04-04",
+      "kundennummerHash": "yyxiycyQKjGhQXUsmNSpSM0dYmRv1Eb8G6FtAVYTuQ8=",
+      "modifikationsTimestamp": "2024-04-04T11:49:41.465",
+      "refnr": "10000-1158276719-S",
+      "titel": "Software-Entwickler SAP EWM (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "gkk DialogGroup GmbH",
+      "arbeitsort": {
+        "entfernung": "7",
+        "koordinaten": {
+          "lat": 50.1153389,
+          "lon": 8.7204196
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60314",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-12",
+      "externeUrl": "https://www.jobexport.de/job/4245939.html?exp=81&cid=03e30379-aff2-40c6-9469-f88c199c1399",
+      "modifikationsTimestamp": "2024-04-08T14:16:38.552",
+      "refnr": "13635-03e30379_JB4245939-S",
+      "titel": "Software Developer*in"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-03",
+      "arbeitgeber": "trendtours Touristik GmbH",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1499795,
+          "lon": 8.5674345
+        },
+        "land": "Deutschland",
+        "ort": "Eschborn, Taunus",
+        "plz": "65760",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-03",
+      "externeUrl": "https://joblift.de/details/118b06b6-368f-418f-b268-c0f3f8375066?fefi=1ca3acd0-8110-4887-b086-c33cd948bcb0&feii=3c977f0a-6540-45a3-97f4-346907897d7c&utm_campaign=581&utm_medium=external_feed&utm_source=bundesagentur",
+      "modifikationsTimestamp": "2024-04-03T11:00:58.197",
+      "refnr": "14753-C711663449-S",
+      "titel": "Data Engineer (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "ISR Information Products AG",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1158787,
+          "lon": 8.670288
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60306",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-13",
+      "externeUrl": "https://www.jobexport.de/job/4213612.html?exp=81&cid=9436afe3-8d25-46ee-a984-4bedcf59805c",
+      "modifikationsTimestamp": "2024-04-09T07:39:09.49",
+      "refnr": "13635-9436afe3_JB4213612-S",
+      "titel": "Senior Softwareentwickler Java / Javascript (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "ISR Information Products AG",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1158787,
+          "lon": 8.670288
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60306",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-13",
+      "externeUrl": "https://www.jobexport.de/job/4213595.html?exp=81&cid=76d2de10-1448-4c69-8805-0e872acb0c2a",
+      "modifikationsTimestamp": "2024-04-09T07:39:08.7",
+      "refnr": "13635-76d2de10_JB4213595-S",
+      "titel": "Junior Softwareentwickler Java / JavaScript (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-18",
+      "arbeitgeber": "ING Deutschland",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1143251,
+          "lon": 8.6299141
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://www.stellenanzeigen.de/job/10795495/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=59X&campaign=ba",
+      "modifikationsTimestamp": "2024-03-25T11:40:38.327",
+      "refnr": "11858-10795495-STA-S",
+      "titel": "Java Entwickler (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "zollsoft GmbH \u00a0 \u00a0",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1290867,
+          "lon": 8.6470147
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "modifikationsTimestamp": "2024-04-08T13:30:48.947",
+      "refnr": "10000-1192637324-S",
+      "titel": "Senior Softwareentwickler:in Java (Homeoffice m\u00f6glich)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2023-12-21",
+      "arbeitgeber": "BS Wutow GmbH \u00a0 \u00a0",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1225349,
+          "lon": 8.6425499
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-02-05",
+      "kundennummerHash": "B3WDQBQ9DyfkWoRA9vu21AUGbD3NFKgGjZIxFgvPB-U=",
+      "modifikationsTimestamp": "2024-02-05T10:41:44.095",
+      "refnr": "10000-1197232448-S",
+      "titel": "Mitarbeiter im SIC"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "CHECK24",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1225349,
+          "lon": 8.6425499
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-09",
+      "externeUrl": "https://check24.onapply.de/details/254930.html?source=arbeitsagentur",
+      "modifikationsTimestamp": "2024-04-09T14:22:41.658",
+      "refnr": "13884-254930-S",
+      "titel": "Werkstudent (m/w/d) Softwareentwicklung PHP InsurTech"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "WAITS GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1303125,
+          "lon": 8.6495329
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "modifikationsTimestamp": "2024-04-08T17:33:00.809",
+      "refnr": "10000-1184945954-S",
+      "titel": "Senior Solution Architect (m/w/d) - Remote"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "PAR GmbH",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.11432514234802,
+          "lon": 8.629914060592952
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-06",
+      "kundennummerHash": "yZJqE82IGMdaJMW0Y04y-dTCi0hDmN2IzmwevQTzDW4=",
+      "modifikationsTimestamp": "2024-04-05T18:06:10.363",
+      "refnr": "13932-k18687.2440-S",
+      "titel": "Professional Jira Administrator (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-26",
+      "arbeitgeber": "Deutsche Bundesbank",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1445626,
+          "lon": 8.6515573
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60431",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "externeUrl": "https://www.interamt.de/koop/app/stelle?id=1113574",
+      "modifikationsTimestamp": "2024-03-26T18:15:35.74",
+      "refnr": "14089-01113574-S",
+      "titel": "Informatiker*innen/Mathematiker*innen/Physiker*innen"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "Deutsche Lufthansa AG",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.163409,
+          "lon": 8.6284101
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60439",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-11",
+      "kundennummerHash": "37hFWDL1lP5boAK4kti7HR1F3FU3YBrT8uY410X4EN4=",
+      "modifikationsTimestamp": "2024-04-10T13:30:55.692",
+      "refnr": "13348-1150436-2-S",
+      "titel": "Senior Java Developer (m/f/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "BWI GmbH",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1143251,
+          "lon": 8.6299141
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-09",
+      "externeUrl": "https://jobs.jobspreader.com/viewjob-bax7w?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=it&utm_term=systems-engineer-dezentrale-applikationsbetreuung-m-w-d",
+      "modifikationsTimestamp": "2024-04-09T07:22:05.969",
+      "refnr": "12336-a24f539j0385123-S",
+      "titel": "Systems Engineer \u2013 dezentrale Applikationsbetreuung (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-05",
+      "arbeitgeber": "ING Deutschland",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1139498,
+          "lon": 8.6485636
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen",
+        "strasse": "Theodor-Heuss-Allee 2"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/ING-Deutschland-Development-Engineer-wmd?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:07:02.812",
+      "refnr": "17338-ca7bbcf40c95aef414-S",
+      "titel": "Development Engineer (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-23",
+      "arbeitgeber": "impetus Unternehmensberatung GmbH",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1499795,
+          "lon": 8.5674345
+        },
+        "land": "Deutschland",
+        "ort": "Eschborn, Taunus",
+        "plz": "65760",
+        "region": "Hessen"
+      },
+      "beruf": "Informatiker/in (Hochschule)",
+      "eintrittsdatum": "2024-03-23",
+      "externeUrl": "https://www.jobboerse-direkt.de/stellenangebote/Software-Entwickler-7526248",
+      "modifikationsTimestamp": "2024-03-23T09:02:21.599",
+      "refnr": "12513-0007526248-S",
+      "titel": "Software Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "diva-e Next GmbH",
+      "arbeitsort": {
+        "entfernung": "6",
+        "koordinaten": {
+          "lat": 50.12798626700004,
+          "lon": 8.713689077000083
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60385",
+        "region": "Hessen",
+        "strasse": "L\u00f6wengasse 27 A"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-09",
+      "kundennummerHash": "XUzmtmhxeo1xz5ZIgAG5elilpG3vVJTvi3YDCgWZy0Y=",
+      "modifikationsTimestamp": "2024-04-09T10:46:14.194",
+      "refnr": "10001-1000083636-S",
+      "titel": "Senior Software Developer AEM (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-03-22T16:33:34.893",
+      "refnr": "12265-277018_JB4224942-S",
+      "titel": "Embedded-Software-Entwickler Automotive (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "ANG. -Punkt und Gut! GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1303125,
+          "lon": 8.6495329
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-05",
+      "kundennummerHash": "RH111JjtWIXpFxMkulLErMQR4vAUYpCb85622fqSt6I=",
+      "modifikationsTimestamp": "2024-04-05T13:24:19.537",
+      "refnr": "10001-1000073539-S",
+      "titel": "Java/JEE-Entwickler Fullstack (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-03-22T16:33:35.336",
+      "refnr": "12265-277021_JB4224943-S",
+      "titel": "Softwareentwickler Embedded Systems (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-03-22T08:04:04.893",
+      "refnr": "12265-265243_JB4224392-S",
+      "titel": "Softwareentwickler Embedded Linux (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "ITech Progress GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1225349,
+          "lon": 8.6425499
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "kundennummerHash": "yEZeOrcWL01r74zquH0pYL--Zi0oNkwyhDgZXaNhmoY=",
+      "modifikationsTimestamp": "2024-03-25T14:04:07.074",
+      "refnr": "10000-1198451203-S",
+      "titel": "Senior Entwickler Frontend (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "zollsoft GmbH \u00a0 \u00a0",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.119305,
+          "lon": 8.6537856
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "modifikationsTimestamp": "2024-04-08T13:28:38.49",
+      "refnr": "10000-1192860823-S",
+      "titel": "Linux Entwickler:in (Homeoffice m\u00f6glich)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "gkk DialogGroup GmbH",
+      "arbeitsort": {
+        "entfernung": "7",
+        "koordinaten": {
+          "lat": 50.1123612,
+          "lon": 8.7171201
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60314",
+        "region": "Hessen",
+        "strasse": "Hanauer Landstra\u00dfe 154"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-09",
+      "externeUrl": "https://www.finest-jobs.com/Stellenanzeige/Software-Developerin-617638?cp=BA",
+      "modifikationsTimestamp": "2024-04-09T07:36:27.841",
+      "refnr": "12811-1384975-S",
+      "titel": "Software Developer*in, Frankfurt"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-05",
+      "arbeitgeber": "findic",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1150541,
+          "lon": 8.6687601
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60325",
+        "region": "Hessen",
+        "strasse": "Taunusanlage 19"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/findic-ETL-Entwickler-wmd?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:06:12.634",
+      "refnr": "17338-8283d5260017f8687e-S",
+      "titel": "ETL-Entwickler (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "matchING Engineering GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.12253485110072,
+          "lon": 8.642549928441635
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Ingenieur/in - Elektrotechnik",
+      "eintrittsdatum": "2024-05-01",
+      "kundennummerHash": "dX5xP20zx8JX7tN_h-aO1QHwjlvaWUhlIlqIkEHVBUA=",
+      "modifikationsTimestamp": "2024-04-05T17:16:41.203",
+      "refnr": "15150-00172835-S",
+      "titel": "Software Entwickler Luft- und Raumfahrt (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "matchING Engineering GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.12253485110072,
+          "lon": 8.642549928441635
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Ingenieur/in - Automatisierungstechnik",
+      "eintrittsdatum": "2024-05-01",
+      "kundennummerHash": "dX5xP20zx8JX7tN_h-aO1QHwjlvaWUhlIlqIkEHVBUA=",
+      "modifikationsTimestamp": "2024-04-05T17:16:26.88",
+      "refnr": "15150-00172794-S",
+      "titel": "Junior Softwareentwickler CODESYS (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-06",
+      "arbeitgeber": "Somentec Software GmbH",
+      "arbeitsort": {
+        "entfernung": "15",
+        "koordinaten": {
+          "lat": 50.0060304,
+          "lon": 8.6560659
+        },
+        "land": "Deutschland",
+        "ort": "Langen (Hessen)",
+        "plz": "63225",
+        "region": "Hessen",
+        "strasse": "Heinrich-Hertz-Str. 24"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/Somentec-Software-GmbH-Softwareentwickler-mwd-Anwendungssoftware?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:06:25.715",
+      "refnr": "17338-14a4cdcb001705ef19-S",
+      "titel": "Softwareentwickler (m/w/d) Anwendungssoftware"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "zollsoft GmbH \u00a0 \u00a0",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1290867,
+          "lon": 8.6470147
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "modifikationsTimestamp": "2024-04-08T13:36:33.356",
+      "refnr": "10000-1193253522-S",
+      "titel": "macOS / iOS Entwickler:in (Homeoffice m\u00f6glich)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "zollsoft GmbH \u00a0 \u00a0",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1290867,
+          "lon": 8.6470147
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "modifikationsTimestamp": "2024-04-08T13:30:31.59",
+      "refnr": "10000-1192637198-S",
+      "titel": "Quereinstieg Softwareentwicklung f\u00fcr Naturwissenschaftler:innen (Homeoffice m\u00f6glich)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "WAITS GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1303125,
+          "lon": 8.6495329
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "modifikationsTimestamp": "2024-04-08T17:31:02.254",
+      "refnr": "10000-1183570140-S",
+      "titel": "Agile / Scrum / Web-Entwickler (m/w/d) - remote"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "WAITS GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1303125,
+          "lon": 8.6495329
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "modifikationsTimestamp": "2024-04-08T17:30:21.408",
+      "refnr": "10000-1186479147-S",
+      "titel": "Fullstack-Entwickler C# / Web (m/w/d) - Remote"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "WAITS GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1270961,
+          "lon": 8.6453286
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "_Ubs_ARU_2pqrvQq9pMRh83VEXWWefSSpozIMTDqGto=",
+      "modifikationsTimestamp": "2024-04-08T17:32:29.148",
+      "refnr": "10001-1000009147-S",
+      "titel": "RPA Entwickler (m/w/d) Expert Level - Remote"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-30",
+      "arbeitgeber": "dfv Mediengruppe",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p249255?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:34:21.733",
+      "refnr": "13644-249255-S",
+      "titel": "Web Developer (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-25",
+      "arbeitgeber": "ING Deutschland",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1139498,
+          "lon": 8.6485636
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen",
+        "strasse": "Theodor-Heuss-Allee 2"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/ING-Deutschland-DevOps-Platform-Engineer-wmd?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:07:35.982",
+      "refnr": "17338-555983b25db0df49e4-S",
+      "titel": "DevOps Platform Engineer (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-25",
+      "arbeitgeber": "ING Deutschland",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1139498,
+          "lon": 8.6485636
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen",
+        "strasse": "Theodor-Heuss-Allee 2"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/ING-Deutschland-Automation--System-Engineer-wmd?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:07:35.711",
+      "refnr": "17338-4f5983b25db0df49e0-S",
+      "titel": "Automation & System Engineer (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-24",
+      "arbeitgeber": "SYZYGY Deutschland",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p214442?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:33:25.162",
+      "refnr": "13644-214442-S",
+      "titel": "Web Developer (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-04",
+      "arbeitgeber": "samecon",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1499795,
+          "lon": 8.5674345
+        },
+        "land": "Deutschland",
+        "ort": "Eschborn, Taunus",
+        "plz": "65760",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p247541?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:31:30.712",
+      "refnr": "13644-247541-S",
+      "titel": "Software Entwickler Java (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-04",
+      "arbeitgeber": "samecon",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1499795,
+          "lon": 8.5674345
+        },
+        "land": "Deutschland",
+        "ort": "Eschborn, Taunus",
+        "plz": "65760",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p247540?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:31:30.444",
+      "refnr": "13644-247540-S",
+      "titel": "Software Entwickler Python (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-05",
+      "arbeitgeber": "PAR GmbH",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.11432514234802,
+          "lon": 8.629914060592952
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-06",
+      "kundennummerHash": "yZJqE82IGMdaJMW0Y04y-dTCi0hDmN2IzmwevQTzDW4=",
+      "modifikationsTimestamp": "2024-04-05T18:06:10.809",
+      "refnr": "13932-k18687.2441-S",
+      "titel": "Backend-Entwickler (m/w/d) mit Erfahrung im Cloudumfeld"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2023-11-24",
+      "arbeitgeber": "autoiXpert",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p243610?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:29:08.88",
+      "refnr": "13644-243610-S",
+      "titel": "Angular Developer (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-02",
+      "arbeitgeber": "medatixx GmbH & Co. KG",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1113194,
+          "lon": 8.6818977
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Informationsmanager/in",
+      "eintrittsdatum": "2024-04-02",
+      "externeUrl": "https://www.yourfirm.de/job/medatixx/17764112/?utm_campaign=free&utm_source=bundesagentur&utm_medium=unpaid-partner",
+      "modifikationsTimestamp": "2024-04-02T08:00:30.467",
+      "refnr": "12117-17764112-YF-S",
+      "titel": "Softwareentwickler (m/w/d) im Bereich Datenmanagement"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-28",
+      "arbeitgeber": "Neum\u00fcller Personalberatung Regina Neum\u00fcller e.K.",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1158787,
+          "lon": 8.670288
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60306",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-05-02",
+      "kundennummerHash": "YXJFHwdHkPMPG5q0ffQdfp8Wg7o6d4uedtTvpb7_X9A=",
+      "modifikationsTimestamp": "2024-03-28T15:37:22.121",
+      "refnr": "10001-1000046826-S",
+      "titel": "Embedded Softwareentwickler (m/w/d) Cockpit Instrumente"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2023-05-17",
+      "arbeitgeber": "Finanz Informatik Solutions Plus",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p186538?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-premium",
+      "modifikationsTimestamp": "2024-04-01T07:22:36.975",
+      "refnr": "13644-186538-S",
+      "titel": "Software Entwickler Mainframe (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2023-12-19",
+      "arbeitgeber": "IB-IT Development GmbH",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.0949876,
+          "lon": 8.5994801
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "65933",
+        "region": "Hessen",
+        "strasse": "Eichenstra\u00dfe 59"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-09",
+      "kundennummerHash": "2qLYz1-jFWd6-lDz7_nNXj6pa1aQFUg48o3F_XUB9pk=",
+      "modifikationsTimestamp": "2024-04-09T12:24:52.173",
+      "refnr": "10000-1195320684-S",
+      "titel": "Frontend Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-18",
+      "arbeitgeber": "Lucht Probst Associates GmbH",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1125066,
+          "lon": 8.6528256
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60308",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-18",
+      "externeUrl": "https://it-jobs.de/_itj-10958319/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=itj_single&pja_cmp=bundesagentur_000",
+      "modifikationsTimestamp": "2024-03-18T08:29:19.027",
+      "refnr": "11858-10958319-ITJ-S",
+      "titel": "(Senior) Software Entwickler - Full-Stack (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-29",
+      "arbeitgeber": "Finanz Informatik",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p254596?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-premium",
+      "modifikationsTimestamp": "2024-04-01T07:42:40.628",
+      "refnr": "13644-254596-S",
+      "titel": "(Junior) Java Software-Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-12",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-04-08T09:01:39.818",
+      "refnr": "12265-348112_JB4245069-S",
+      "titel": "Algorithm Developer - Driving Functions (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-08",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-12",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-04-08T09:01:38.322",
+      "refnr": "12265-348097_JB4245066-S",
+      "titel": "Software Developer - Autonomous Driving (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-01-10",
+      "arbeitgeber": "Bundesamt f\u00fcr Kartographie und Ge",
+      "arbeitsort": {
+        "entfernung": "6",
+        "koordinaten": {
+          "lat": 50.0904165,
+          "lon": 8.6655692
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60598",
+        "region": "Hessen",
+        "strasse": "Richard-Strauss-Allee 11"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/Bundesamt-fr-Kartographie-und-Ge-IT-Netzwerkingenieur-mwd?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:06:46.374",
+      "refnr": "17338-8c42198c5ed35c55c1-S",
+      "titel": "IT-Netzwerkingenieur (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-25",
+      "arbeitgeber": "ITech Progress GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1225349,
+          "lon": 8.6425499
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "kundennummerHash": "yEZeOrcWL01r74zquH0pYL--Zi0oNkwyhDgZXaNhmoY=",
+      "modifikationsTimestamp": "2024-03-25T14:23:53.87",
+      "refnr": "10000-1198468232-S",
+      "titel": "Softwareentwickler Java/JEE Full Stack (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-04",
+      "arbeitgeber": "DENIC eG",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1125066,
+          "lon": 8.6528256
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60308",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-04",
+      "externeUrl": "https://www.jobblitz.de/JobAd/10894892/?campaign=jb_ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=free",
+      "modifikationsTimestamp": "2024-04-04T08:20:11.973",
+      "refnr": "13243-10894892-JB-S",
+      "titel": "Full-Stack-Software-Entwickler / Registry Services (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "diva-e Next GmbH",
+      "arbeitsort": {
+        "entfernung": "6",
+        "koordinaten": {
+          "lat": 50.12798626700004,
+          "lon": 8.713689077000083
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60385",
+        "region": "Hessen",
+        "strasse": "L\u00f6wengasse 27 A"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-09",
+      "kundennummerHash": "XUzmtmhxeo1xz5ZIgAG5elilpG3vVJTvi3YDCgWZy0Y=",
+      "modifikationsTimestamp": "2024-04-09T10:43:47.045",
+      "refnr": "10001-1000083624-S",
+      "titel": "(Junior) Software Developer Java (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2023-12-29",
+      "arbeitgeber": "Deloitte GmbH",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1143251,
+          "lon": 8.6299141
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-10",
+      "kundennummerHash": "eaaFufkKRouxkCTseyHPOrSt_VpqFYaFZ6GFcq-X0WQ=",
+      "modifikationsTimestamp": "2024-04-10T09:29:49.558",
+      "refnr": "15794-448978_21761-1-S",
+      "titel": "(Junior) Softwareentwickler Audit Analytics (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Darmstadt",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.107016797274675,
+          "lon": 8.665525783226382
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60329",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "i_mxlN4n_NCqiLcov9Xu4kSMtEDm7cq5uFVsJxwS6fo=",
+      "modifikationsTimestamp": "2024-03-22T08:03:27.027",
+      "refnr": "12265-264223_JB4224320-S",
+      "titel": "Full Stack Entwickler (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-24",
+      "arbeitgeber": "Finanz Informatik",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p242661?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-premium",
+      "modifikationsTimestamp": "2024-04-01T07:42:00.779",
+      "refnr": "13644-242661-S",
+      "titel": "(Junior) Softwareentwickler Java (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-24",
+      "arbeitgeber": "Finanz Informatik",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Anwendungsprogrammierer/in",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-it.de/jobsuche/p239793?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-premium",
+      "modifikationsTimestamp": "2024-04-01T07:41:59.698",
+      "refnr": "13644-239793-S",
+      "titel": "Java Softwareentwickler Payment (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-05",
+      "arbeitgeber": "ING Deutschland",
+      "arbeitsort": {
+        "entfernung": "3",
+        "koordinaten": {
+          "lat": 50.1139498,
+          "lon": 8.6485636
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60486",
+        "region": "Hessen",
+        "strasse": "Theodor-Heuss-Allee 2"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/ING-Deutschland-Domain-Architect-wmd-Konsumentenkredite?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:07:08.687",
+      "refnr": "17338-b1b2e3dc4c93b41be0-S",
+      "titel": "Domain Architect (w/m/d) Konsumentenkredite"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-18",
+      "arbeitgeber": "MGA Ingenieurdienstleistungen GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1225349,
+          "lon": 8.6425499
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-18",
+      "kundennummerHash": "sQIxzYyzqgZCjOoFoMyqCRoTZXh8R0FdHlGHFjPHrOI=",
+      "modifikationsTimestamp": "2024-03-18T10:08:46.286",
+      "refnr": "10001-1000001749-S",
+      "titel": "Programmierer/Entwickler (m/w/d) Software SPS/IPC"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-03-22T08:07:50.081",
+      "refnr": "12265-158697_JB4224815-S",
+      "titel": "Softwareingenieur Modellentwicklung Automotive (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Frankfurt",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.111319446881595,
+          "lon": 8.681897748802164
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "e2Wz0GWX0EPN8XEm3DWbpeR0E4RfJUCd4M2SVi60unk=",
+      "modifikationsTimestamp": "2024-03-22T08:04:08.072",
+      "refnr": "12265-168287_JB4224398-S",
+      "titel": "Junior Programmierer C / C++ (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-18",
+      "arbeitgeber": "Pamec Papp GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.1277969,
+          "lon": 8.6046868
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60489",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-18",
+      "kundennummerHash": "aFGNfAn4LyYbbK9k29S7OPsKKI4xc5znOlhIwPcua1s=",
+      "modifikationsTimestamp": "2024-03-18T11:55:20.86",
+      "refnr": "12310-6KV360AOO4LB090I-S",
+      "titel": "Embedded Softwareentwickler C Automotive (gn)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-20",
+      "arbeitgeber": "Capgemini Deutschland GmbH",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1053622,
+          "lon": 8.6496901
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60327",
+        "region": "Hessen",
+        "strasse": "Mainzer Landstrasse 178-190"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "modifikationsTimestamp": "2024-04-04T09:07:48.433",
+      "refnr": "10000-1194687633-S",
+      "titel": "Softwareentwickler (w|m|d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-20",
+      "arbeitgeber": "Capgemini Deutschland GmbH",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1053622,
+          "lon": 8.6496901
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60327",
+        "region": "Hessen",
+        "strasse": "Mainzer Landstrasse 178-190"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "kundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "modifikationsTimestamp": "2024-04-04T09:07:45.226",
+      "refnr": "10000-1194642765-S",
+      "titel": "Junior Softwareentwickler SAP L\u00f6sungen (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-20",
+      "arbeitgeber": "Capgemini Deutschland GmbH",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1053622,
+          "lon": 8.6496901
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60327",
+        "region": "Hessen",
+        "strasse": "Mainzer Landstra\u00dfe 178-190"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-11",
+      "kundennummerHash": "oWT74Mpbdj5YwZ5RocquNMW_kXPfYT21lJCUoSyvOdA=",
+      "modifikationsTimestamp": "2024-03-07T07:25:26.927",
+      "refnr": "10000-1193434257-S",
+      "titel": "Junior Softwareentwickler SAP L\u00f6sungen (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-05",
+      "arbeitgeber": "findic",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1150541,
+          "lon": 8.6687601
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60325",
+        "region": "Hessen",
+        "strasse": "Taunusanlage 19"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/findic-Senior-Cloud-Architect-wmd-?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:06:13.165",
+      "refnr": "17338-e383d5260017f86882-S",
+      "titel": "(Senior) Cloud Architect (w/m/d) "
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-05",
+      "arbeitgeber": "findic",
+      "arbeitsort": {
+        "entfernung": "4",
+        "koordinaten": {
+          "lat": 50.1150541,
+          "lon": 8.6687601
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60325",
+        "region": "Hessen",
+        "strasse": "Taunusanlage 19"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://germantechjobs.de/jobs/findic-Software-Engineer-Java-wmd?utm_source=ba_int&utm_medium=ba_int&utm_campaign=ba_int",
+      "modifikationsTimestamp": "2024-03-25T10:06:12.898",
+      "refnr": "17338-a683d5260017f86880-S",
+      "titel": "Software-Engineer Java (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-02-29",
+      "arbeitgeber": "Bechtle",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832822
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60313",
+        "region": "Hessen"
+      },
+      "beruf": "Ingenieur/in - Elektrotechnik",
+      "eintrittsdatum": "2024-04-01",
+      "externeUrl": "https://www.get-in-engineering.de/jobsuche/p222477?utm_source=arbeitsagentur&utm_medium=cpc&utm_campaign=launch-basic",
+      "modifikationsTimestamp": "2024-04-01T07:30:29.529",
+      "refnr": "13645-222477-S",
+      "titel": "Software Entwickler (IAM) (m/w/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-21",
+      "arbeitgeber": "Biotest AG",
+      "arbeitsort": {
+        "entfernung": "16",
+        "koordinaten": {
+          "lat": 50.0075654,
+          "lon": 8.7115119
+        },
+        "land": "Deutschland",
+        "ort": "Dreieich",
+        "plz": "63303",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-25",
+      "externeUrl": "https://www.jobexport.de/job/4223363.html?exp=81&cid=01854ef3-f5ba-4840-b3ff-68dc4b5601dd",
+      "modifikationsTimestamp": "2024-03-21T18:14:19.582",
+      "refnr": "13635-01854ef3_JB4223363-S",
+      "titel": "Software Developer (m/w/d) "
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-03",
+      "arbeitgeber": "dmTECH GmbH",
+      "arbeitsort": {
+        "entfernung": "5",
+        "koordinaten": {
+          "lat": 50.1113194,
+          "lon": 8.6818977
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "plz": "60311",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-08",
+      "externeUrl": "https://www.stellenanzeigen.de/job/11465360/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=IT&subkategorie=58X&campaign=ba",
+      "modifikationsTimestamp": "2024-04-08T10:06:18.019",
+      "refnr": "11858-11465360-STA-S",
+      "titel": "Software Engineer Recommender Systems (w/m/d)"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-03-22",
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Wiesbaden",
+      "arbeitsort": {
+        "entfernung": "7",
+        "koordinaten": {
+          "lat": 50.14995781098896,
+          "lon": 8.535766172493814
+        },
+        "land": "Deutschland",
+        "ort": "Schwalbach am Taunus",
+        "plz": "65824",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-03-26",
+      "kundennummerHash": "u-BP_ixIHt_mg_CEfhSxvMGhCbFLQY0irznqa7lwcJQ=",
+      "modifikationsTimestamp": "2024-03-22T16:33:05.182",
+      "refnr": "12265-218002_JB4224879-S",
+      "titel": "Softwareentwickler (m/w/d) Embedded Systems Automotive"
+    },
+    {
+      "aktuelleVeroeffentlichungsdatum": "2024-04-09",
+      "arbeitgeber": "IT42morrow IFT GmbH",
+      "arbeitsort": {
+        "entfernung": "2",
+        "koordinaten": {
+          "lat": 50.12253478700006,
+          "lon": 8.64254999600007
+        },
+        "land": "Deutschland",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen"
+      },
+      "beruf": "Softwareentwickler/in",
+      "eintrittsdatum": "2024-04-09",
+      "kundennummerHash": "q50oEXFfyFtrk3OttqO5MvBwiESQw5LWinBDCnNkTUg=",
+      "modifikationsTimestamp": "2024-04-09T09:39:58.267",
+      "refnr": "10001-1000082835-S",
+      "titel": "Wegbereiter der Digitalisierung im \u00f6ffentlichen Sektor \u2013 Entwickler, DevOps, Tester (m/w/d)"
+    }
+  ],
+  "woOutput": {
+    "bereinigterOrt": "Frankfurt am Main",
+    "koordinaten": [
+      {
+        "lat": 50.139159,
+        "lon": 8.6299296
+      }
+    ],
+    "suchmodus": "UMKREISSUCHE"
+  }
+}
